@@ -1,0 +1,6 @@
+{
+  "name": "Vidnexa",
+  "description": "Premium video downloading and management client",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
